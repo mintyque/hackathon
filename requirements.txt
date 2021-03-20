@@ -45,7 +45,7 @@ image-geometry==1.13.0
 importlib-metadata==1.6.0
 interactive-markers==1.11.4
 itsdangerous==1.1.0
-Jinja2==2.11.2
+Jinja2==2.11.3
 jmespath==0.10.0
 kappa==0.6.0
 kdl-parser-py==1.13.1
